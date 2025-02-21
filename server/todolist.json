@@ -1,0 +1,29 @@
+{
+    "todolist": [
+        {
+          "title": "Buy groceries",
+          "description": "Purchase fruits, vegetables, and milk from the store.",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "Finish project report",
+          "description": "Complete the final draft of the project report and submit it.",
+          "date": "2025-02-22"
+        },
+        {
+          "title": "Clean the house",
+          "description": "Vacuum and mop the floors, and dust the furniture.",
+          "date": "2025-02-23"
+        },
+        {
+          "title": "Call mom",
+          "description": "Catch up with mom and check on how she’s doing.",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "Schedule dentist appointment",
+          "description": "Call the dentist office to book an appointment for a checkup.",
+          "date": "2025-02-24"
+        }
+    ]
+    }
